@@ -1,0 +1,18 @@
+71: China
+76: REMEMBERING OUR LEADERS (558)
+78: GOD'S CARE FOR YOUNG BELIEVERS (53)
+
+
+
+
+SELECT article, scriptures, page,localrow
+FROM `mse_article`
+WHERE author = 'JT'
+AND vol =15
+ORDER BY localrow
+LIMIT 0 , 30
+
+UPDATE mse_volume
+SET complete = 1
+WHERE author = 'JT'
+AND vol = 17
