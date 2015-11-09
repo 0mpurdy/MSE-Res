@@ -1,6 +1,7 @@
 {1}
-NOTES OF READINGS ON THE GOSPEL OF JOHN
+<h1>NOTES OF READINGS ON THE GOSPEL OF JOHN</h1>
 CHAPTER 1
+@John 1
 F.E.R. I am rather inclined to think "The Word" was a recognised appellative as applied to Christ. When the apostle speaks thus of that Person, it was in a way known and recognised by Christians. This gospel was written late.
 I suppose the reference to "eye-witnesses" in @Luke 1: 2 would refer more to miracles, and that sort of thing. It is "eye-witnesses *of*". The Word was His personal name. I think it helps in the understanding of this gospel to see that John, speaking of "The Word", speaks of a thought that was current among Christians -- known among them.
 If you talk about the testimony of God -- Christ Himself is the testimony; not simply certain facts, but Christ Himself is the testimony from John's point of view. Death and resurrection are certain facts, and they form a testimony in a certain way, but in John, Christ Himself is the testimony. These things are all parts of the testimony.
@@ -201,7 +202,8 @@ Ques. How do the three days come in here?
 F.E.R. I should take it as, first, Peter's day, the building; secondly, Nathanael's day, "An Israelite indeed, in whom is no guile"; and thirdly, the third day as the figure of resurrection which introduces the marriage. Peter is a typical stone, as Nathanael was a typical Israelite according to God -- no fraud, no concealment from God. It is more difficult for people to take in what is referred to in the third day, that is, the idea of a scene being on the ground of resurrection. Resurrection itself is more easily understood; but without that being actually mentioned here, we come
 {30}
 into the view of a scene established on that ground. Death is dispossessed -- "swallowed up in victory". The judgment of God has been met, and the power of the enemy broken, and when Christ comes in He sets death aside and comes in in the power of resurrection. The practical working of it, in regard to saints, will be in the consciousness of a spiritual life outside and above the natural life. That will be the "good wine". They will have perfect happiness in the millennium, but it will not be bounded by the millennium. All that is natural will come to an end then, but what is spiritual will remain. In the new earth you will get a completely changed condition of existence. There will be no distinction between Jew and Gentile, but nevertheless *earth* will never be *heaven*. They are always kept distinct, although always bound together.
-CHAPTERS 2: 23 - 25; 3: 1 - 21
+CHAPTERS 2,3
+@John 2: 23 - 25; @John 3: 1 - 21
 F.E.R. The last two verses of chapter 2 bring before us the extent to which man as such can go, that is, a mental conviction -- believing on account of the miracles which he saw. Simon Magus went that far. It leaves them without light from God, though, at the same time, it leaves them without excuse. Signs bring no light from God, and a man might see the signs, and yet be unaffected morally. I take it that is the reason why the Lord would not trust them; no impression was really made upon them from God. The effect of God's touch is that a man does not stop at miracles. He might see a leper cleansed, or a dead person raised, but it is not a question merely of the miracles, but of light from God, and the grace which could come in touch with man's need. With the Lord, the great point was for them to receive His *testimony* concerning Himself and so it is now. The reception
 {31}
 of the Spirit's testimony of Christ is really what converts a man; but, from the very outset, the Lord did not trust Himself to man. He knew what was in man, just as He could reveal what was in God. He knew the worst feature in man, and that is, that he is not to be trusted if it be a question of the things of God. If a man were put to the test in regard to the things of God, he would always prove unfaithful. The fact is, God is the only One whom you can really trust.
@@ -224,7 +226,8 @@ All the promises of God go to make up one great system. This we get in the Old T
 Then another thing comes out here, that we are shut up to the Lord for light as to these things (verse 13),
 {35}
 "No man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven". "Son of man ... in heaven" is a remarkable designation; it is what is characteristic of Him, that He is in heaven. He may leave that place, but His proper habitation is heaven.
-CHAPTERS 3; 4: 1 - 42
+CHAPTERS 3,4
+@John 3; @John 4:1-42
 F.E.R. It is important to trace the Lord's passage from Judaea into Galilee, and to see what comes out in each part of it. He left Judaea and went away again unto Galilee. "And he must needs go through Samaria".
 Ques. Do you mean what *morally* characterises it?
 F.E.R. Yes, the testimony which comes out in each place. The testimony at Jerusalem was, "Ye must be born again". Then in Samaria it was the gift of the Spirit, and in Galilee He raises the nobleman's son -- He gives the confirmation of the nobleman's faith. The teacher -- Nicodemus -- had the most elementary teaching of all, "Ye must be born again". This was at Jerusalem, the seat of light. Then, too, the Lord was entirely dependent on the will of the Father -- "My meat is to do the will of him that sent me, and to finish his work". He depended on the Father, as one might say, for an opening -- He did not make one for Himself.
@@ -296,12 +299,13 @@ will break down somewhere. The fact is (as before referred to), man has to trave
 Ques. In what way do you mean?
 F.E.R. Well, like @Romans 8, that is your beginning; the communication of the Spirit is the beginning of the Christian's history. He begins "in the Spirit", not "in the flesh". You begin now where God begins, but then you have to *come* to it. Until then you have not apprehended a single bit the good of it. That is where the earlier chapters come in.
 Rem. The springing well, then, is the apprehension of what lies in the Spirit?
-F.E.R. Well, not entirely, because one follows on the other. The gift of the Spirit follows upon the cross, and so the Lord could talk to a poor sinful woman about the gift of God, and she would get there from the outset; but then she would have to learn all the lessons of @Numbers 1 - 20, what the flesh is, and to learn, too, what the ways of God are with a people in the wilderness, with a view to their moral education. The wilderness is a necessity for us, and not for God. If you did not learn certain things, you would not know the secret of the water from the rock, or the necessity of the water of purification. He meets the need of the people, it is true, but the need *must* be learned.
+F.E.R. Well, not entirely, because one follows on the other. The gift of the Spirit follows upon the cross, and so the Lord could talk to a poor sinful woman about the gift of God, and she would get there from the outset; but then she would have to learn all the lessons of @Numbers 1 - @Numbers 20, what the flesh is, and to learn, too, what the ways of God are with a people in the wilderness, with a view to their moral education. The wilderness is a necessity for us, and not for God. If you did not learn certain things, you would not know the secret of the water from the rock, or the necessity of the water of purification. He meets the need of the people, it is true, but the need *must* be learned.
 It is very important to distinguish between the principles on which God works and our apprehension of it all, and the way in which we reach it. God
 {45}
 reached it in His own way, entirely independent of man, but we have to reach it by the road proper to man. I am sure of this, that you must not only have faith, but you must reach experimentally the point which God has reached, in your own soul's history. It is only in that way you enjoy *fully* what God has given. "We are the circumcision, which worship God in the Spirit, and rejoice in Christ Jesus, and have no confidence in the flesh". We have to come to that, although it takes a long time with some. God arrives at it quickly, but it is a great mercy to us that we get the good of it without having to wait to reach it experimentally. You really have it by faith, but for the full good of it you must have it experimentally. There are many things we must learn; the waters of Marah were to be drunk, and we have to find out the indisposition of the flesh to enter the land, its inertness, and all that, so that we may learn how indispensable God's provisions are for us while in the wilderness.
 The fact is, only God knows our need, and He has ordered His ways from His knowledge of man's need. You may think to find a short cut into the land -- as people say, a matter of eleven days or so -- but for all that, you will find that this is a scene of dead bones, where you want the water of purification, and a dry and thirsty land where you will want the water of refreshment.
-CHAPTER 5: 1 - 30
+CHAPTER 5
+@John 5:1-30
 F.E.R. We had the revelation of God -- His present mind, the revelation of His will -- in chapter 3, and then we got the communication of the Spirit in chapter 4. The latter comes out in Samaria in connection with the Lord's progress from Judaea to Galilee. Then He goes on to Galilee, and completes the testimony by showing God's faithfulness to the Jew, or rather to Israel.
 {46}
 The great point in what comes out in Galilee is that between Israel and God there must be the link of faith; so the Lord says to the nobleman, "Except ye see signs and wonders, ye will not believe". He challenges him in that way. The nobleman, however, believes the word of Jesus, and the link is established between them in that way, while Israel, as a whole, would be characterised by the craving to see "signs and wonders". Without faith a man has no light or knowledge of God. It is by faith the link is formed. This man is brought into distress, and in a kind of way he feels that Christ is his only helper, but he was really looking upon the raising up of his son as a ground of faith, and the Lord rebukes that. When he rested simply on the word of Christ he gets the sign as a confirmation. You see, faith would not be *moral* if it depended upon a sign, but when faith is there, the sign comes in to confirm it. It is so difficult to man -- and I think we know something of it in ourselves -- to believe in the goodness of God, that He has pleasure in *good*.
@@ -383,7 +387,8 @@ It is very wonderful the character of the Lord's works. "My Father worketh hithe
 "My Father worketh hitherto, and I work". How often, in the present day, you come across people who are insensible to any goodness in God. People talk about "the Psalmist", and that sort of thing, and quote Scripture in a flippant sort of way, but they have not the faintest impression of the goodness of God. It is so sad, in the midst of a people professedly Christian, with a certain familiarity with the letter of Scripture, to see how little knowledge there is of God's goodness. God's dealings in grace are really summed up in the expression, "My Father worketh". The law was dealing with man in responsibility, but the idea was that it was to be *written*. For the moment, I know it was written on tables of stone, but the divine
 {56}
 idea was that it was to be written in the heart of man. When Moses went up into the mount, he unveiled his face -- he was a picture of Christ. God looked to the end, and the end really was "the glory of the Lord". The people were not allowed to look to the end, but it was there before God, and I think you can understand why the law was written on tables of stone. It was because Christ had not yet come. Until He was here upon earth you could not have the law written on men's hearts; He must be the first, and when He came, He could say, in the language of the Spirit in David, "Thy law is within my heart". It was not that it needed to be there -- it was there, and it was God's thought from the outset. It was from that standpoint that God could charge Moses to take from the people of Israel the materials for the building of the sanctuary.
-CHAPTER 5: 19 TO END
+CHAPTER 5
+@John 5:19-47
 F.E.R. What we see here is that the perversity of the Jews just became an occasion of bringing out more light and truth. The same thing comes out in the next chapter. When they ask the Lord for a sign, He turns it into an opportunity for opening up more truth. The perversity and crookedness of man is turned to account in that way.
 Rem. You get the same thing, too, in regard to the woman in chapter 4. The Lord takes the opportunity of bringing out the truth in regard to the Spirit.
 F.E.R. Yes. And again when she speaks of worship, the Lord uses it as an occasion to open up what the will of the Father was, and so on, with regard to worship. Here they charge the Lord with calling God His own Father, and the Lord takes occasion to bring to light the relations which existed between the Father and Himself, and what comes out so solemnly is this, that if they saw Him they saw the Father. The Lord
@@ -487,7 +492,8 @@ expression. He has really come into that circle -- broken through the fence -- a
 Ques. The Son hath "life in himself". Does that refer to resurrection?
 F.E.R. Well, He could not be holden of death. It is only a divine Person who could have life in Himself. It refers to the place He has taken as Man, that it is said to be "given" to Him. Here you have the incarnate Son on earth, and everything is looked upon as given to Him. He takes the character of receiving everything from the Father in this gospel, even things that properly belong to Him, as in the words, "Glorify thou me ... with the glory which I had with thee before the world was", chapter 17.
 "All that are in the graves shall hear his voice, and shall come forth". He carries the thought out to its fullest limit and boundary. "They that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of judgment". It is not simply that He exercises quickening power on those that believe, but He carries it out to the utmost boundary of death. It is all put on that kind of moral ground so as to cover everybody.
-CHAPTER 5: 25 TO END
+CHAPTER 5
+@John 5:25-47
 F.E.R. We were speaking last week of the dead hearing the voice of the Son of God, and that those who heard lived. I believe the thought is that the Son of God comes as low as the dead, so that they might hear His voice.
 Ques. So that those who were in death might hear Him?
 F.E.R. Yes. What I mean is that He goes down
@@ -592,7 +598,8 @@ Ques. Is "witness" the same idea as testifying?
 F.E.R. Oh, yes, I think so. It is very solemn to think that, although they would not receive His testimony, they will receive the "man of sin". "If another shall come in his own name, him ye will receive". The truth is that Christ appeals to certain moral necessities of man, and Antichrist will appeal to certain lusts of man, and, therefore, you see man
 {80}
 receives Antichrist much more readily than he would Christ; and how people are deceived by these things -- how they run after them. The whole system of the world adapts itself to some lust in man, and when Antichrist comes he will just appeal to some desire of man for greatness, or glory, or such like. The very principle which led the people to reject Christ is really Antichrist.
-CHAPTER 6: 1 - 40
+CHAPTER 6
+@John 6:1-40
 F.E.R. In chapter 4 we noted the communication of the Spirit, and the well of water springing up into eternal life; then in chapter 5 we get the voice of the Son of God and what that voice implies, and now, in this chapter, we get living bread.
 Ques. And that is connected with the Son of man?
 F.E.R. Yes, quite so. The contrast between chapters 5 and 6 lies in this -- that in the former we have the *Son of God's* part, as it were. He is there presenting God, but now in this chapter He comes within the range of man's appropriation, on *man's* part. In chapter 5 it was, "The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live" -- that is what I understand to be speaking on *God's* part, but when He comes as living bread, He gives life to the world, that is on our side. Grace brings Him within the range of our appropriation -- eating is appropriation in that way -- grace brings the Son of God within the range of man's appropriation. He has become the Son of man to that end. Hence the great idea in the chapter is *food* -- that which sustains. It is not *light*, as in the previous chapter, but that which sustains and supports. "My flesh is meat indeed, and my blood is drink indeed".
@@ -705,7 +712,8 @@ their question, "What shall we do, that we might work the works of God?"
 F.E.R. He answers them, "This is the work of God, that ye believe on him whom he hath sent". He does not leave much to be done on their part.
 Rem. How very much it is like what they said to Moses, "All that the Lord hath said will we do, and be obedient".
 F.E.R. Yes, indeed, and you find the very same thought in man's mind to this day -- "Teach us how to work the works of God" -- that is their thought. But what they want is *light*. "This is the work of God, that ye believe on him whom he hath sent". Man does not appreciate his need of light, he seeks direction as to how to *work*, but what he really wants is the first principle of all, and that is *light*. How can a man work in darkness?
-CHAPTER 6: 30 TO END
+CHAPTER 6
+@John 6:30-71
 F.E.R. We constantly get the Jews using the expression, "What sign shewest thou?" I think the "sign" is what is referred to in @1 Corinthians 1 as the "power of God": "Christ the power of God, and the wisdom of God". The Jews sought for a sign, and the Greeks sought after wisdom, and in contrast to that the apostles preached Christ, the power and the wisdom of God. What I understand the sign to be is a proof or sign of God's intervention. So the *manna*, in that way, was a sign of God's intervention, "He gave them bread from heaven to eat".
 The giving of the manna authenticated Moses; the point in their mind was that if anyone came to them as from God, he was bound to give them proof of God's intervention. The difference between Moses and Christ was that Moses was nothing. They got the bread from heaven through Moses, but he himself was
 {92}
@@ -804,7 +812,8 @@ F.E.R. Exactly. What came out before the flood are the great constituent parts o
 power in the most remarkable way. When there was no hope in nature, He brings life out of death. Abraham looked for a city that had stability; he sought a country, and God prepared him a city. As the Lord said, "Your father Abraham rejoiced to see my day".
 Rem. It is very striking that he should have looked for it just at the time when the earth was divided up among the nations.
 F.E.R. Yes. God saw what man was after, He saw the combination of man for his own glory and the gratification of his pride. Man made for himself a city and a tower, and for the moment God scattered it; but now man has got over all that with his telegraphs, and railways, and the like, and you will get the whole thing coming out again in full bloom in Antichrist. When it is all full-blown, and you get the harlot coming into view, then God brings to light the heavenly city, the city which Abraham looked for. After all, man's work is utterly without stability, the very best of it. I do not see anything in it, but not only that, it is positively repulsive.
-CHAPTER 6: 41 TO END
+CHAPTER 6
+@John 6:41-71
 F.E.R. I do not think it is very difficult to enter into the murmurings of the Jews, if we know anything at all about our hearts, and how material the mind of man is.
 Rem. And then, too, having no real sense of their need was what made it so difficult for them to understand the Lord's words.
 F.E.R. Yes. For when God begins to work, and man is really anxious to get light from God, things become comparatively simple to him, but for the human mind to enter into divine thoughts is a very difficult matter. They seem to be astonished at the
@@ -931,7 +940,8 @@ Ques. But must you not have something of the *company* to know what the old corn
 F.E.R. Yes, I think so. You do not feed on the old corn of the land individually. Feeding on the manna is individual, but not on the old corn. The moment you come to the latter you are on assembly ground.
 Rem. And that is why the manna ceases.
 F.E.R. Yes, exactly. When you come to the truth of the assembly, it is the old corn of the land. Manna is not the food of the assembly, it is for the individual, and I do not think you would be very effective if you did not know this.
-CHAPTER 6: 53 TO END
+CHAPTER 6
+@John 6:53-71
 F.E.R. What I see in this chapter is the Lord presenting Himself to us in three different positions: first, as come down out of heaven; secondly, as giving His flesh for the life of the world, so that you may eat the flesh of the Son of man, and drink His blood; and thirdly, as ascended up where He was before. The soul has to follow the course which the Lord has taken.
 Ques. So that if they were to be with Him when
 {114}
@@ -1038,6 +1048,7 @@ It is a most wonderful thing to be in the company of the Lord, as we see in Pete
 God. "One of you is a devil", is what He said of Judas Iscariot, the son of Simon. The Lord does not try to hold things together in any kind of natural way. He held those whom the Father had given to Him, but He does not get followers together in any human way -- in fact, He exposed them, "One of you is a devil". I think it was in divine wisdom that Judas was chosen. Under the very best influences, it was shown what the heart of man could be: that a man three and a half years in the company of the Lord could be a traitor. There was a traitorous heart there, though probably Judas did not intend all that time being a traitor.
 As regard Peter, he had, with all his faults, real affection and attachment of heart to Christ. It was his affection that led him into danger; there was real affection mixed with self-confidence, Peter had to learn to analyse things; he was really attached to Christ, but he was in a position to which he was not equal. I think the prayer which the Lord taught His disciples was, after all, very suitable, "Lead us not into temptation". If you are placed in circumstances of temptation, then you may pray to be kept, and you may be kept from it. We may ask not to be put into circumstances for which we are not equal.
 CHAPTER 7
+@John 7
 F.E.R. I think this chapter brings us, in a certain sense, to a new departure in the gospel, The latter part brings us very distinctly into the presence of the glory of Christ, and you have also the gift of the Holy Spirit. All that brings in what I might call a new platform.
 Ques. What would you say is the difference between the gift of the Spirit, as presented here, and in chapter 4?
 F.E.R. Well, as a matter of fact, the Holy Spirit is never mentioned in chapter 4.
@@ -1153,6 +1164,7 @@ F.E.R. There are others, but they are all of the same spirit. There are plenty o
 Rem. "If the blind lead the blind, both shall fall into the ditch".
 F.E.R. I only mentioned it because it shows what is in the minds of people as to the fact of Christ's having become a Man. They do not see what we get in this chapter, that Christ was rejected, even by His brethren.
 CHAPTER 8
+@John 8
 F.E.R. I think that down to the end of chapter 6 the prominent thought has been *life*. Then in chapters 8 and 9 the great thought is *light* -- the light
 {136}
 came to the Jews and they were tested by it. Chapter 7 is the point of transition, and brings in the truth of the Spirit, and the day of the Spirit, in order to pave the way to chapter 10, only I think that first the Jew had to be tested by the light.
@@ -1261,7 +1273,8 @@ Rem. Stephen speaks of their refusal as wilful sin.
 F.E.R. Yes.
 Ques. Is there any moral force in His being "lifted up"?
 F.E.R. It is always so in John. It was a demonstration, it was putting Christ into the place of demonstration, into the place where it could be demonstrated what the true place of man was. They made a spectacle of Him; put Him into the place of curse and judgment -- man's own proper place; but the crowning act of wickedness became the crowning act of blessing for man.
-CHAPTER 9: 30 TO 10: 18
+CHAPTERS 9,10
+@John 9:30-41; @John 10:1-18
 Rem. It appears as if there had been a spiritual work in this blind man as well as his natural eyesight being given to him.
 F.E.R. I should almost think so.
 Ques. Would you say he was a kind of typical man in relation to the new company?
@@ -1435,7 +1448,8 @@ Ques. Is it the same as the true Vine?
 F.E.R. Oh, no; that is a different idea altogether. He speaks there of the professing thing. Israel had been the vine, but the moment Christ came here, He was the Vine, and then fruit-bearing depended upon their being identified with Him. Here He is the good
 {161}
 Shepherd. He does not speak of Himself in that character at the beginning of the chapter; the proof and evidence of His being the good Shepherd is that He gave His life for the sheep. They were to be relieved from the pressure of death, they were to be saved, and to go in and out, and find pasture.
-CHAPTER 10 (CONTINUED)
+CHAPTER 10
+@John 10
 F.E.R. I think it is important to see that what comes out in this chapter, as we were noticing last time, is that the course which the Lord takes is not *new*, but that He came here definitely to the fold, to lead the sheep out of it. As we get elsewhere, "God sent forth his Son, come of woman, come under law, that he might redeem those under law, that we might receive sonship". There was a definite purpose in the sending out of God's Son. He came into the fold in the legitimate way, but it was to lead the sheep out.
 Ques. I suppose you would say there were other things connected with His coming into the world?
 F.E.R. Yes. But all else was secondary, and it is of all importance to see what the divine purpose of His coming into the fold was. All else that came out -- the testing and exposure of the Jew -- was incidental, and the result of that testing only proved the divine purpose for which Christ came. Exactly the same principle is seen in the parable of the sower to which we referred last time. He was the Sower from the outset. Here we see the divine purpose in His coming into the fold, and every other thought is subordinated to that.
@@ -1562,7 +1576,8 @@ F.E.R. Yes. Whatever ground He took as a Man here, He could claim to do all that
 {173}
 There is another remarkable thing in this chapter: all through His death is not attributed to man, it is the good Shepherd laying down His life for the sheep in divine goodness. The object the Lord had before Him was to bring the sheep out -- He ignores man completely. "No man taketh it from me, but I lay it down of myself". Divine goodness expressed itself in that way.
 In verse 16 it is the entire flock that is in view -- Jew and Gentile. "I have other sheep which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one flock, one shepherd". There can be no difference between that and the thought of the one body -- it is only a different figure. A shepherd is a head, only the thought of the Head brings out the pre-eminence of Christ, just as a husband supports a wife; whereas the idea of a shepherd is that He leads the sheep. It is in that way that the sheep are led really into worship, and it may be into the light of divine counsels. That is where the Shepherd comes in. The Shepherd dies for the sheep; Christ dies for the church. Every figure serves to bring out some more wonderful phase. All these different ideas converge towards the same point, and merge in one another. If you could get them all as a whole, you would have a perfect blaze of light; but the only one who could do that is the Holy Spirit, whose work is to put them together in you, as you are able to take them in.
-CHAPTER 10: 22 TO END
+CHAPTER 10
+@John 10:22-42
 F.E.R. The controversy which goes on in this part of the chapter only tends to make the rejection of the Jews more distinct.
 Rem. I suppose they would think that if any people in the world were the sheep of God, they were the people.
 {174}
@@ -1688,6 +1703,7 @@ Ques. Is there not a hidden allusion to it in the words, "What is his son's name
 F.E.R. Well, that may be; but the general statement, running through all Old Testament scriptures, is that God is one.
 {186}
 CHAPTER 11
+@John 11
 F.E.R. There are two great things, two great points, in this chapter, I think: one is the Son of God; the other, the plotting of man, the counsel of man. The glory of God comes out in the raising of Lazarus, but then on the other hand you get the plotting of man really against the glory of God.
 Rem. Though even here you see how entirely hopeless their plotting was; it only worked out what God intended.
 F.E.R. Quite so.
@@ -2036,6 +2052,7 @@ Rem. It is striking the way it comes out in John: they were really plotting agai
 F.E.R. Yes. Plotting against the Christ was quite consistent with external righteousness, and so it is today. I think the great thing is to abide by the testimony of the glory of God: "the glad tidings of the glory of the blessed God". The love of God remains; the man who was under judgment has gone in judgment, and the love of God remains.
 Rem. It superabounds.
 CHAPTER 12
+@John 12
 F.E.R. In chapter 12 you get the second great testimony to Him as Son of David.
 Ques. Mary anointed the Lord for His burial, did she not?
 F.E.R. Yes. The Lord must die as of that line. He could only have His glory as Son of David in resurrection. And so, too, as Son of man. It is most
@@ -2063,7 +2080,7 @@ Ques. What does "risen with Christ" mean then?
 F.E.R. It is the mind of God that you should be with Christ over Jordan, on heavenly ground.
 Rem. You used to say that they were concurrent.
 F.E.R. So they are, but deliverance is connected, I am sure now, with being quickened into the divine nature. A man is not quickened except as formed in the divine nature. Putting off the old man is concurrent with putting on the new. This latter has been a help to me. I had always puzzled over that sentence of the apostle and wondered what he could mean, but I think I begin to see it now.
-The motive of these Jews does not seem to have been a very exalted one -- they were just wonder-seeking, I should say. "They came not for Jesus¬ sake only, but that they might see Lazarus also, whom he had raised from the dead". I think that one sees today, too, how very much moral levity there is with people, and entire want of any fixity of purpose; it is much the same now as then. You find people pursuing this thing and that thing, running first after this thing, then after that, but you do not find them pursuing light or truth or anything of that kind. Here you find they give the Lord a kind of ovation when they know that He is coming to Jerusalem, they "took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord".
+The motive of these Jews does not seem to have been a very exalted one -- they were just wonder-seeking, I should say. "They came not for Jesus~ sake only, but that they might see Lazarus also, whom he had raised from the dead". I think that one sees today, too, how very much moral levity there is with people, and entire want of any fixity of purpose; it is much the same now as then. You find people pursuing this thing and that thing, running first after this thing, then after that, but you do not find them pursuing light or truth or anything of that kind. Here you find they give the Lord a kind of ovation when they know that He is coming to Jerusalem, they "took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord".
 Rem. It seems that they were more Galileans, according to the record given in the other gospels.
 F.E.R. Well, a great many of His miracles were done in Galilee, and we read, too, that they came up to the feast.
 Ques. What feast is this?
@@ -2196,8 +2213,9 @@ not of a different kind, it is of the same kind as Himself in that sense.
 Ques. The same in nature, but different in glory?
 F.E.R. Yes; and in form.
 Rem. If we are to be on the same platform as Christ, we could not be put upon that apart from death.
-F.E.R. Yes; you have got to lose all that you are, there is not a bit of the "old man" in the "new man"; the "new man" is entirely new -- a different man, it is not an old thing made to look like new, as you see in tailors¬ shops sometimes. There is not a bit of the old man in the new man; we have come out of the grave of Christ in the character of Christ -- as He is -- "As is the heavenly, such are they also that are heavenly".
-CHAPTER 12: 24 TO END
+F.E.R. Yes; you have got to lose all that you are, there is not a bit of the "old man" in the "new man"; the "new man" is entirely new -- a different man, it is not an old thing made to look like new, as you see in tailors~ shops sometimes. There is not a bit of the old man in the new man; we have come out of the grave of Christ in the character of Christ -- as He is -- "As is the heavenly, such are they also that are heavenly".
+CHAPTER 12
+@John 12:24-50
 F.E.R. The language we get here, I think, must, to a great many people, seem almost an enigma. I am sure it must be an enigma to any but a spiritual mind, because really we are in exactly the same world, and the world itself is exactly the same, and yet we get such expressions as, "If any one serve me, let him follow me". The world is not a bit changed, that is certain, and I am still in it, and yet there are the Lord's words still addressed to us as forcibly as ever. I think people can understand the idea of earth; we all know something about the earth, and most people have an idea of heaven, but it is a very great deal more difficult to take in the idea of heavenly ground whilst still down here. It is certainly a thing which none but a spiritual mind could possibly understand.
 Ques. Is that what is meant by following Him?
 F.E.R. The Lord must have meant that when He said, "there shall also my servant be". Of course we are not yet in heaven, that is certain.
@@ -2333,6 +2351,7 @@ F.E.R. No; He did not proclaim what belonged to Him -- He was the humblest of me
 Rem. He makes a very solemn summary at the end of the chapter.
 F.E.R. Yes; very solemn -- it is the word which He had spoken which should judge them. The Father's commandment was life eternal -- that is the most remarkable expression -- His commandment is life eternal, and it must stand because it is the Father's commandment. It is what He has ordained, it is His counsel; "There he commanded the blessing, even life for evermore" -- He ordained it.
 CHAPTER 13
+@John 13
 F.E.R. Public ministry is all over. The hour had come when He should depart out of the world -- the time for public ministry was over, and the fact that the hour had come makes it evident, I think.
 Ques. You refer to the Lord's own ministry?
 {247}
@@ -2458,7 +2477,7 @@ Rem. "Ye which are spiritual" -- it supposes every one to be spiritual.
 F.E.R. This is the proper character of a Christian. The more correct expression is, "ye being spiritual"; the apostle is speaking there, as he very often does speak, as to what they are properly. I would not say the washing would not sometimes take the form of a rebuke, to bring conviction, if it be needful.
 Ques. But it was not essential in the Lord's case here?
 F.E.R. Well, this was only a figure to teach them their moral obligation.
-Ques. Do you think He washed Judas¬ feet?
+Ques. Do you think He washed Judas~ feet?
 F.E.R. I do not know, that is all left. It says, "After he had washed their feet, and had taken his garments" -- it looks as if He had washed them all; but, after all, the action of the Lord in washing their feet was only figurative, as I have said.
 Rem. He was wounded in the house of His friends.
 {257}
@@ -2518,11 +2537,12 @@ F.E.R. Well, it reminds me of that expression in
 @2 Corinthians 5, "Whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause". He was sober for their cause here, and then brings them to chapter 14: 1, and there shows them that they really had where to turn. We so poorly understand the mind of God in regard to the saints. There must be no breach of moral propriety, but mere moral propriety is not the standard -- the standard in this chapter is having part with Christ; everything that is inconsistent with that, unsuitable to that, is really condemned by the Lord.
 Ques. Chapter 14 answers to "part with me"?
 F.E.R. Yes. The Lord says, "I will come to you"; you have the assembly there. This chapter is only preparatory.
-CHAPTERS 13: 18 TO 14: 3
+CHAPTERS 13,14
+@John 13:18-38; @John 14:1-3
 F.E.R. This passage indicates a very great change from all that had been connected with the presence of the Lord here. The Lord says, "I know whom I have chosen: but that the scripture may be fulfilled", etc. I suppose it was meet that the Lord should experience every form of evil down here, that He should enter into all that man has experience of -- or rather that the saint has experience of. It is this which enables the Lord to sympathise with His people down here. There is nothing that they experience that the Lord Himself has not entered into. "He that eateth bread with me hath lifted up his heel against me". It is this sympathy of the Lord which is needed to uphold His people when they are brought into contact with treachery and desertion.
 Rem. I suppose everything culminates in this.
 F.E.R. Yes; I think it is the worst form of evil you can experience.
-Ques. Do you think Judas¬ treachery is prophetic of the man of sin?
+Ques. Do you think Judas~ treachery is prophetic of the man of sin?
 {263}
 F.E.R. Well, I think it is prophetic of what Israel will experience in the last days; and here the point is that Christ entered into it, so that He could take up that language, "He that eateth bread with me hath lifted up his heel against me". The Lord knew whom He had chosen, it was not that He was taken unawares.
 Ques. But at the same time He felt the treachery?
@@ -2551,7 +2571,7 @@ F.E.R. Well, the Lord is speaking to them all, is He not?
 Ques. Is it to John in verse 26?
 F.E.R. Oh, I was thinking of "From henceforth I tell you", etc. The impression it gives me is this, that you must be prepared for it, that you cannot take everyone on trust. The Lord makes that known to you, and you are cast upon the Lord -- and you need to be cast on the Lord down here. You want to watch diligently lest any man fail of the grace of God; lest there be any profane person like Esau.
 Ques. You mean believers as well as the general world?
-F.E.R. Oh, quite so. From henceforth He changes His attitude; I mean, He allowed Judas to be with them before, but now He says, "From henceforth I tell you before it come" -- speaking of Judas¬ treachery.
+F.E.R. Oh, quite so. From henceforth He changes His attitude; I mean, He allowed Judas to be with them before, but now He says, "From henceforth I tell you before it come" -- speaking of Judas~ treachery.
 Ques. Is there any moral connection between this and feet-washing?
 F.E.R. Yes, I think so. The thing is the exposure of the traitor. Later on it says, when Judas has gone out, "Now is the Son of man glorified". Judas does not come in in the latter part of the chapter.
 Ques. Is it prophetic, would you think?
@@ -2613,7 +2633,7 @@ F.E.R. Haggling over one thing or another, but certainly not concerning themselv
 Now what follows is that Jesus was "troubled in spirit, and testified ... one of you shall betray me".
 Ques. Does that refer to His feelings as a Man?
 F.E.R. Oh, I think it was a very great deal more than that. "He was troubled in spirit", that was *Himself* who was troubled. Every sensibility was distressed. I do not think that anything is much more important than to see that every sensibility in the Lord sprang from what was divine. He had taken the place of man, but every sensibility had its origin in what was divine.
-Ques. It is not referring to Judas¬ action exactly?
+Ques. It is not referring to Judas~ action exactly?
 F.E.R. You find that the Lord always anticipated everything that was troublous; you get that even in regard to the cross. He goes through the trouble before the trouble comes; so here, He goes through the trouble of it before the treachery comes, and when it came He was calm and prepared for it. It was a very strange thing, "one of you shall betray me" -- a man who had been three and a half years in the company of the Lord, and who had seen all that the
 {272}
 Lord was, and who yet, after all, could have the heart to become a traitor.
@@ -2678,6 +2698,7 @@ F.E.R. The Lord speaks of Himself under an official name or title. He does that 
 Rem. Anyone who was less than divine could not have done the work He did.
 F.E.R. No; I think the bearing of the title "Son of man" is the complete subjugation of all evil.
 CHAPTER 14
+@John 14
 Ques. The beginning of this chapter is evidently connected with the previous one; but what would you say is the import of the chapter?
 F.E.R. I think that, in the previous one, the Lord brings before them what they will have to meet in the world, but the object of this chapter is to take them out of the world. As men they would have to meet a great many things in this world, trials, and evil, and all that sort of thing, but the Lord's object is to take them out of the world. His object is not exactly to give you relief from the things that trouble you; relief may or may not come, but His way is to lead you out of the world. You often find people who become opposed to the light, and the Lord allows them to go on, and often even to a very advanced age; you are surprised at it, for they do not exactly do any good, and yet the Lord leaves them here. You have to meet this and all kinds of things, such as you get in chapter 13, treachery and faithlessness, and so on, but at the same time the Lord knows all about it. He Himself has had to meet it, and the object of this chapter is to take you out of this world; that is, of course, in mind and spirit. You are indoors in this chapter, in with the Lord, and outside the world. The sympathy of the Lord leads you out. He makes you conscious that He has been into the circumstances and everything down here, and He knows all about things down here, but the effect of His sympathy is to carry your hearts out of it, to carry you, in thought and spirit, to where He is. There is no trouble where Christ is, all the trouble is down here. For instance,
 {278}
@@ -2732,7 +2753,7 @@ Rem. And it must be in men who were specially acquainted with the Lord.
 F.E.R. Yes; and those specially conversant with the Lord's affections.
 Ques. Do you not find that usually the young Christian is more attracted to John than to Paul?
 F.E.R. Yes; but, you know, it is only within the last five or six years that we have been awakened to that, that John's presentation of eternal life is objective.
-Rem. And yet the study of John was J.N.D.¬s legacy to us.
+Rem. And yet the study of John was J.N.D.~s legacy to us.
 F.E.R. Yes; and J.N.D. himself had stated the same thing almost in the same words; he spoke of "the out-of-the-world, heavenly condition and order of things in which eternal life consists" -- it shows where his mind was; and he wrote that twenty-five years before. If it is a condition of being, it is evidently objective.
 Rem. "Let not your heart be troubled". I suppose that would be in connection with the troubles of the company?
 F.E.R. Yes, I think so; it has reference to what had come before them in the previous chapter.
@@ -2896,7 +2917,7 @@ F.E.R. Yes; they have taken up what was said to Israel, and have confounded it w
 Rem. It is not "by" instrumentally in Peter, but born again "out of". And Peter is speaking of those in whom new birth had taken place.
 F.E.R. When the Lord speaks of it, He speaks of it more abstractly.
 Ques. Is it not "by means of" in Peter?
-F.E.R. Through the word -- I think it might almost be rendered, according to J.N.D.¬s rendering, "on the principle of".
+F.E.R. Through the word -- I think it might almost be rendered, according to J.N.D.~s rendering, "on the principle of".
 Rem. The word is distinguished from the seed. Would you say there were two things there or one?
 F.E.R. Well, how would you distinguish between
 {301}
@@ -2966,6 +2987,7 @@ F.E.R. I think it is testimony to His death.
 Ques. A demonstration to the world?
 F.E.R. Yes, I think so; it brought to light, in that sense, the love of the Father and the Son, "The Father sent the Son to be the Saviour of the world".
 CHAPTER 15
+@John 15
 F.E.R. What we really get here practically is that the testimony for God was limited to one Man. God had left a nation here, but the nation was no longer a testimony. Now it was one *Man* that was the testimony.
 Rem. As He says here, "I am the true vine" -- the "I" is emphatic.
 F.E.R. Yes; they might be the branches, but the testimony had to begin with the Vine; there could be no branches if there were not a Vine. There had been a nation, Israel had been the vine, God had brought a vine out of Egypt and planted it in His vineyard, but there was, at all events, no fruit-bearing there, and now we get the truth, and the truth is that one Man is the Vine -- "I am the true vine". I do not quite think that one could say that Christ bore fruit in that way, that would not be quite the thing, but He became the source of all fruit; in becoming the Vine He became the source of all fruit.
@@ -3110,7 +3132,8 @@ Rem. Separation from associations would come in?
 F.E.R. Well, I think that comes in in connection with the purging. We are chastened that we might be partakers of His holiness.
 Ques. Speaking about the Lord's direction, we should not get that without dependence?
 F.E.R. No; you must have a single eye, you must be looking to the Lord and to no one else.
-CHAPTER 15: 13 TO END
+CHAPTER 15
+@John 15:13-27
 F.E.R. It is a remarkable expression, "I have called you friends; for all things that I have heard of my Father I have made known unto you" -- it was a very great word for the Lord to use, "Ye are my friends"; it made them the depositaries of all that He had heard from His Father, "All things that I have heard of my Father I have made known unto you".
 Rem. Is it not a similar thought to what is said of Abraham, he was the "friend of God", and in connection with Sodom the Lord says, "Shall I hide from Abraham that thing which I do?"
 F.E.R. I think that is the idea of a friend, one to whom you may give your confidence. It seems to me a very extraordinary thing for the Lord to say to these disciples. It was not a question of how far they understood His words -- they understood very little -- but, at all events, what the Father had made known to Him, He made known to them. I think it shows how very important the communication to them must have been.
@@ -3207,7 +3230,7 @@ F.E.R. No, you do not; their petitions were simply addressed to the Lord or to G
 Rem. But there is a great definiteness in their asking, they asked quite simply.
 Rem. You get one remarkable expression in the Acts, "They were filled with joy, and with the Holy Spirit".
 Rem. I was thinking of what you were saying as to their being so in the reality of things, the things really came of which the Lord had spoken to them.
-F.E.R. Quite so. I think you might attribute everything to the apostles; even if there is fruit from us now, it is really the result of the apostles¬ labours. I only spoke of that passage in @1 John 1 because it marks the peculiar place the apostles had in connection with their testimony, a place which only the apostles could have. One can understand the very great force with which the Lord enjoined them to love one another. He does not tell them to hate the world, though He tells them to expect that the world will hate them; but He does command them that they should love one another. He was only enjoining on them what they had seen in Him.
+F.E.R. Quite so. I think you might attribute everything to the apostles; even if there is fruit from us now, it is really the result of the apostles~ labours. I only spoke of that passage in @1 John 1 because it marks the peculiar place the apostles had in connection with their testimony, a place which only the apostles could have. One can understand the very great force with which the Lord enjoined them to love one another. He does not tell them to hate the world, though He tells them to expect that the world will hate them; but He does command them that they should love one another. He was only enjoining on them what they had seen in Him.
 Rem. And the natural effect of the manifestation of love inside would bring out the hatred of the world.
 F.E.R. Yes; the truth is that man hates God, and so it is folly to attempt to discuss these things with him. The more you know of the natural man the more you know that the natural man hates God. You find that in everyday life, however pleasantly you may appear to get on, and I am sure I always try to do that, and naturally would, but, after all, you feel it is all there, you feel it in coming into contact with men.
 Rem. It struck me that the more we realised that, the more we, as Christians, would love one another.
@@ -3257,6 +3280,7 @@ Rem. It is not the side of man's responsibilities.
 F.E.R. That is all closed; it is not even on the line of things which come in in connection with God's faithfulness, but a *new departure entirely*. It is all according to the counsels of His love.
 {338}
 CHAPTER 16
+@John 16
 F.E.R. It is evident that, in the mind of the Lord, it was the Jew who was going to turn persecutor. "The time cometh that whosoever killeth you will think that he doeth God service". Paul was a pretty good expression of it. Then He goes on, "These things will they do unto you" -- not because they have not known God, but because "they have not known the Father, nor me". Anyone instructed in the knowledge of the Father and the Son could never turn persecutor, and if a man is a persecutor it means this much, he does not *know* the *Father* or the *Son*.
 Ques. They had the knowledge of God, I suppose, in a way, under law; there was a way in which God had made Himself known as under law, and they could persecute as knowing God in that way?
 F.E.R. I think they had become legal; the effect of the law was to make men legal, if they took it up in the mere letter of it -- the outward thing.
@@ -3682,6 +3706,7 @@ Very few people, I think, take in the force of the expression, "I have overcome 
 Ques. Do you not get the peace of Christ in @Matthew 11, when He says, "Even so, Father; for so it seemed good in thy sight"?
 F.E.R. Yes, I think so.
 CHAPTER 17
+@John 17
 F.E.R. I think one thing comes out in verse 1, and that is, how completely the Son is identified with the condition which He had taken, "Father, the hour is come; glorify thy Son"; it proves very distinctly how completely the Person was identified with the condition which He had assumed.
 Ques. It proves the glory of the Person, too, does it not?
 F.E.R. Yes, the answer to the prayer proves that. It is only from His being in the condition and position of a man down here in humiliation that there could be such utterances.
@@ -3872,7 +3897,8 @@ Rem. It is very wonderful how irresistibly we are drawn back to the One who was 
 F.E.R. Yes. No human being can tell why it is so, but counsel belongs to the Father, as we have it. "All the Father's counsels claiming", etc. They are centred in the Son, but evidently counsels in Scripture are connected with the name of the Father, and if it were not for that the condition of the world would be
 {401}
 completely hopeless. Man has rejected every overture of God; no overture that God ever made but they rejected -- what then remains? Why, nothing whatever but the Father's counsels. And then in connection with that comes out the principle, which everyone must allow -- the principle of *sovereignty*.
-CHAPTER 17: 6 TO END
+CHAPTER 17
+@John 17:6-26
 F.E.R. From verse 6 and onwards for a few verses we get an account of the service which Christ had carried out with regard to the disciples, it is all in relation to the Father, "I have manifested *thy* name", and "they have kept *thy* word". It is a kind of commendation, in that way, of the disciples -- "I am glorified in them".
 Ques. You do not think this part of it, "I have manifested thy name", is anticipative, do you?
 F.E.R. Oh, no, I think He had manifested the Father's name, "I have declared unto them thy name".
@@ -4005,7 +4031,8 @@ F.E.R. Well, what could there be? If a man
 {415}
 turns away from God, and what God gives him, if he refuses Christ, and the full light of God, there is nothing more for him, it is impossible to form a link between that man and Christ.
 Judas must have seen everything that the Lord did; he had been in the company of the Lord for three and a half years, heard His words, and seen His works, and I have no doubt had even performed miracles himself, and yet, in spite of all that, you get the man ruled by covetousness. It only shows what the heart of man is. You have to be exceedingly careful of the principles that dominate in the heart; even the Christian has to watch what his heart is covering up, evil motives are very insidious, and they may work in a very subtle sort of way. With Judas it was no sudden thing, he began with covetousness, then Satan tempts him, and then Satan enters into him, but it was all step by step. No one knows how very strong in the heart of man is the love of possession, it is a principle of immense power. When the devil came to the Lord he said, "Command that these stones be made bread". Well, the Lord could have turned those stones into bread, or into gold, if He had liked, but His answer is, "Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God". You might get plenty of bread to eat, and no life at all morally, but it is by "every word that proceedeth out of the mouth of God" that we are to live.
-CHAPTER 17: 14 TO END
+CHAPTER 17
+@John 17:14-26
 F.E.R. It is very remarkable how completely the Lord puts the disciples into His own position here, I mean that He puts them in the place which He had occupied, "I have given them thy word"; and then, "They are not of the world, even as I am not of the world"; and then, too, "As thou hast sent me into the world, even so have I also sent them into the
 {416}
 world". They had the Father's word -- that is, He puts the testimony, as it were, into their hands; they were not of the world, and they were sent of Him, even as He had been sent by the Father. It is a very remarkable placing of them in His own position, the position which He had occupied. Then the prayer is that they might be maintained in it, consciously maintained in it.
@@ -4138,7 +4165,8 @@ F.E.R. Yes, "my glory", it is emphatic, "that they may behold *my glory*"; and t
 Ques. And yet it was given Him here?
 F.E.R. Yes; He takes it up in that way. All that belongs to Him He takes up as given to Him. It is just the contrast between Colossians and Ephesians. In Ephesians everything is *given* to Him, but in Colossians He *is* everything. In Ephesians He is *given* to be Head over all things to the church, He has become Man, and takes up everything as given to Him. But in Colossians He *is* Head of the body, the church, the Beginning, the Firstborn from the dead; He *is* Firstborn of all creation -- it is what He *is* and not what is given to Him.
 {431}
-CHAPTERS 18 AND 19
+CHAPTERS 18,19
+@John 18; @John 19
 F.E.R. Chapters 18 and 19 are, in the main, historical, and for this reason are not quite adapted for a *Reading*. The details which come out in them are pretty much in accord with the gospel. The utterances before the high priest and Pilate are peculiar to the gospel. The Lord answers no accusations; they ask about His doctrine, and He answers that He had taught openly in the temple. "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said". So, too, with Pilate, the Lord replies to no accusation; His utterances show them that He judges them, not they Him, for they were in the presence of Him who is the truth. "Why askest thou me?" really shows that He discerns the motives at work in them. The whole object of questioning Christ was to get something to go upon to condemn Him; it was no honest inquiry.
 In the council it is, "Why askest thou me?" To Pilate it is, "Every one that is of the truth heareth my voice". He did not make so much of being a king, but that He might gather up all that was of the truth -- "To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice". The ground that the Jew is compelled to take here is most humiliating; they had had a history as God's people, and now they are compelled to own, "We have no king but Caesar". You cannot imagine anything more humiliating.
 The human idea of truth is the setting forth of anything as it *is*; but that is not the divine idea. Truth covers all that may be known of God, both as revelation and His will; truth shows everything in its place, it is a test for everything, but you cannot connect truth with man. The Lord said of the devil, "There is no truth in him". The idea of the truth
@@ -4157,6 +4185,7 @@ It is a sad picture all through, both with regard to the council and Pilate, and
 The fulfilment of Scripture comes out in a remarkable way in chapter 19: 24 - 38. A soldier pierced His side, and forthwith came there out blood and water -- the blood atoned, and the water cleansed. The grace of God rose above the worst hatred of man; it was wanton brutality, and the divine answer is the water and the blood. Even the soldier that pierced His side might be cleansed.
 "A bone of him shall not be broken". This shows that however unrestrained the hand of man may seem to be, God is over everything. If you want an evidence of that truth of the scripture, verse 34 would give it. What human mind could conceive that the answer to brutal wantonness should be a testimony to the grace of God?
 CHAPTER 20
+@John 20
 F.E.R. The death of Christ as seen in Luke is distinctly in view of resurrection. Death was on man, therefore all must be on the ground of resurrection. God could not touch man in grace except on the ground
 {435}
 of resurrection. In John's gospel it is more the setting aside of the whole state of man after the flesh, like the brazen serpent lifted up. The garment was not rent; this shows how everything was held within bounds. It is humiliating to man that he cannot go beyond what God allows, while on the other hand it is very beautiful to see the care and pity of those godly men, Joseph of Arimathaea and Nicodemus, who were in the line of God's pleasure. They came out with courage when things arrived at their crisis. They had been timid before, but it is beautiful to see how they come out now.
@@ -4255,7 +4284,7 @@ otherwise. The spiritual man knows all things, yet he himself is discerned of no
 Ques. What is meant by the "dual procession"?
 F.E.R. Well, it is a vexed question between the Eastern and the Western churches, it is the "Filioque"; but what I believe is, that Christ went to the Father, and sent the Spirit from the Father. The Father sends Him, Christ sends Him from the Father. He is sent, of course, in Christ's name, and He is the Spirit of God's Son, but as to the actual sending of the Spirit, it says in the beginning of the Acts, "Having received of the Father the promise of the Holy Spirit, he hath shed forth this, which ye now see and hear". And I very much prefer the words of Scripture to the creeds of men.
 Rem. It is formally stated in @John 15 and 16 in that way.
-F.E.R. Yes; and yet the "Filioque" divided Eastern and Western churches. The fact is, you never see truth cast into moulds, or put into a creed, without the most egregious blunders being made. All creeds are alike in that respect -- the Apostles¬ creed, or the Athanasian creed. God would not have truth -- though it be truth -- cast into moulds of that description. It is like any Act of Parliament, you can drive a coach-and-six through it.
+F.E.R. Yes; and yet the "Filioque" divided Eastern and Western churches. The fact is, you never see truth cast into moulds, or put into a creed, without the most egregious blunders being made. All creeds are alike in that respect -- the Apostles~ creed, or the Athanasian creed. God would not have truth -- though it be truth -- cast into moulds of that description. It is like any Act of Parliament, you can drive a coach-and-six through it.
 Then there is another point, that is, that creeds go on the principle that you can hold everything as doctrine without the knowledge of Persons, and that is the fatal mistake into which Christendom has fallen. They have the doctrine of the Persons without the Persons themselves. It is fatal to attempt to hold
 {446}
 the doctrine apart from knowing the Persons. Look even at the Old Testament, and the knowledge the saints had of Persons. Look at Abraham's knowledge of God -- he knew a Person, he had a personal God. Theology is just a science, a doctrine.
@@ -4392,6 +4421,7 @@ F.E.R. Yes; and it is a question here of what is to be presented to man in testi
 Rem. In the epistle it is, "that ye may *know*", who believe on the name of the Son of God; here it is "that ye might *believe*".
 F.E.R. Yes; in the epistle he goes on to consciousness.
 CHAPTER 21
+@John 21
 F.E.R. This chapter comes in quite supplementarily -- the teaching of the gospel, the burden of it, was quite finished at the end of chapter 20.
 Ques. It comes in in quite another character?
 F.E.R. Yes; it is very remarkable in that way, it is an appendix.
