@@ -1,0 +1,27 @@
+Palestine
+North
+palestine_n.jpg
+
+Palestine
+South East
+palestine_se.jpg
+
+Palestine
+South West
+palestine_sw.jpg
+
+Mediterranean
+North East
+med_ne.jpg
+
+Mediterranean
+North West
+med_nw.jpg
+
+Mediterranean
+South East
+med_se.jpg
+
+Mediterranean
+South West
+med_sw.jpg
